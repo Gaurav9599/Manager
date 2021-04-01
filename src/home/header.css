@@ -1,0 +1,39 @@
+.back_color {
+    background: #0c0b0b;
+    font-weight: 1000;
+}
+
+.anchor {
+    color: white;
+    padding: 5px;
+}
+
+.side_anchor {
+    color: black;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.active {
+    color: #47b0ec;
+    font-weight: bold;
+}
+
+.side_active {
+    color: #47b0ec;
+    font-weight: bold;
+    padding-bottom: 5px;
+    border-bottom: 4px solid #47b0ec;
+}
+
+.heading_6 {
+    padding-top: 15px;
+    font-weight: 900;
+    color: white;
+}
+
+body {
+    overflow-x: hidden;
+}

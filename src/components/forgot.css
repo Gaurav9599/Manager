@@ -1,0 +1,40 @@
+.forgot_form {
+    margin-bottom: 94px;
+    width: 500px;
+    height: 450px;
+    background: #faf0f0;
+    border: 1px solid #a69d9d;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 4px rgba(178, 173, 173, 0.43);
+    border-radius: 50px;
+}
+
+.line {
+    border-bottom: 3px solid #857575;
+    margin-right: 60px;
+    margin-left: 60px;
+}
+
+.form-check {
+    padding-left: 80px;
+}
+
+.form-check-input {
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    box-shadow: none;
+}
+
+input[type="radio"]:after {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    top: -2px;
+    left: -1px;
+    position: relative;
+    content: "";
+    display: inline-block;
+    visibility: visible;
+    border: 3px solid rgb(26, 31, 32);
+}

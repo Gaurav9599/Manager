@@ -1,0 +1,9 @@
+.color {
+    background-color: #A54C76;
+}
+
+.pos {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}

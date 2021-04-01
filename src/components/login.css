@@ -1,0 +1,50 @@
+.bg {
+ background: #40E0D0;
+}
+
+.login_form {
+    width: 500px;
+    height: 520px;
+    background: #faf0f0;
+    border: 1px solid #a69d9d;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 4px rgba(178, 173, 173, 0.43);
+    border-radius: 50px;
+}
+
+.seperator {
+    width: 70%;
+    display: inline-block;
+}
+
+.left {
+    float: left;
+    margin-left: 50px;
+}
+
+.right {
+    float: right;
+    margin-right: 50px;
+}
+
+.seperator_text {
+    color: #a4a0a0;
+}
+
+.login_icon {
+    color: #000000;
+    width: 45px;
+    height: 45px;
+}
+
+.col {
+    flex-grow: 0px;
+    padding: 0px;
+}
+
+.eye {
+    position: relative;
+    top: -37px;
+    right: -120px;
+    cursor: pointer;
+}
